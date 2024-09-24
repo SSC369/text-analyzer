@@ -2,6 +2,12 @@
 
 A React-based application that allows users to analyze text in real-time. The app provides unique word count, character count (excluding spaces and punctuation), and a dynamic string replacement feature.
 
+## Application Demo
+https://drive.google.com/file/d/1JvE1kCwMoxKS6s9NqGVeb0rJJVfkVL4e/view?usp=sharing
+
+## Hosted Link
+https://text-analyzer-1edf6.netlify.app/
+
 ## Features
 
 - **Real-Time Analysis:**
